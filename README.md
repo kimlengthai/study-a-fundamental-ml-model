@@ -34,7 +34,7 @@ To get started with this project, follow the steps below.
     ```
 
 2. **Open the project in Google Colaboratory**:
-    - Upload the `Decision_Tree_Implementation.ipynb` notebook to your Google Drive.
+    - Upload the `assignment2.ipynb` notebook to your Google Drive.
     - Open the notebook in Google Colaboratory.
 
 ## Usage
